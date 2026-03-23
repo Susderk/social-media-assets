@@ -1,0 +1,16 @@
+{
+  "id": "2026-W13_first-shop-zero-revenue",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "",
+  "caption_en": "",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W13_first-shop-zero-revenue/Phoenix_10_Wallace_and_Gromitstyle_claymation_scene_of_a_cheer_0.jpg"
+  ],
+  "github_target_folder": "weekly/2026-W13_first-shop-zero-revenue",
+  "github_shas": {
+    "Phoenix_10_Wallace_and_Gromitstyle_claymation_scene_of_a_cheer_0.jpg": "49554b40b1039f48aeca3f0867bd5e04ee729897"
+  },
+  "created_at": "2026-03-19T00:00:00Z",
+  "uploaded_at": "2026-03-23T13:00:22.947727"
+}
