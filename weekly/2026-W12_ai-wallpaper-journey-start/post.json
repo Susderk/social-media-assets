@@ -1,0 +1,16 @@
+{
+  "id": "2026-W12_ai-wallpaper-journey-start",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "",
+  "caption_en": "",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W12_ai-wallpaper-journey-start/Phoenix_10_Wallace_and_Gromitstyle_claymation_scene_of_a_curio_0.jpg"
+  ],
+  "github_target_folder": "weekly/2026-W12_ai-wallpaper-journey-start",
+  "github_shas": {
+    "Phoenix_10_Wallace_and_Gromitstyle_claymation_scene_of_a_curio_0.jpg": "44076aa72ebf46620775a963b17a3031bc670da4"
+  },
+  "created_at": "2026-03-19T00:00:00Z",
+  "uploaded_at": "2026-03-23T13:00:18.163103"
+}
