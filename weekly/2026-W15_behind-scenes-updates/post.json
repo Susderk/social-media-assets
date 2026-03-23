@@ -1,0 +1,16 @@
+{
+  "id": "2026-W15_behind-scenes-updates",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "",
+  "caption_en": "",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W15_behind-scenes-updates/Phoenix_10_Wallace_and_Gromitstyle_claymation_spring_workshop_0.jpg"
+  ],
+  "github_target_folder": "weekly/2026-W15_behind-scenes-updates",
+  "github_shas": {
+    "Phoenix_10_Wallace_and_Gromitstyle_claymation_spring_workshop_0.jpg": "b201da133d2e996684ced1512306237bc114fa26"
+  },
+  "created_at": "2026-03-19T00:00:00Z",
+  "uploaded_at": "2026-03-23T13:00:31.286297"
+}
