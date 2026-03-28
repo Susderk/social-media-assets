@@ -1,0 +1,19 @@
+{
+  "id": "2026-W11_ai-team-seo-and-self-healing",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Wisst ihr, was passiert, wenn man anfängt „nur mal schnell die Ordner aufzuräumen\"? Man baut ein komplettes KI-Team.\n\nDiese Woche habe ich fünf KI-Personas in Cowork eingerichtet. Thomas als persönlicher Assistent, Hiwi als Teamleiter, Claudia für Social Media, Indi für die Technik und Albert als kreativer Querdenker. Jeder hat eigene Arbeitsordner, klare Zuständigkeiten und definierte Regeln. Klingt verrückt? Ist es wahrscheinlich auch.\n\nAber es funktioniert. Die Pipeline-Skripte laden Wallpapers jetzt automatisch auf GitHub hoch. Kein manuelles Kopieren mehr. Der Etsy-API-Antrag ist raus, Pinterest lässt weiter auf sich warten. Albert hat nebenbei herausgefunden, dass meine Etsy-Titel für exakt null Suchbegriffe ranken — „Crystal Cave Lines\" klingt poetisch, bringt aber keine Klicks. Das wird sich ändern.\n\nAch, und der Fallback-Artikel-Generator repariert sich jetzt quasi selbst. Fehlende Bilder? Werden automatisch nachgeneriert. Der Event-Scenes-Generator rotiert jetzt sauber durch 120 Scenes statt endlos aufzublähen.\n\nNächste Woche wird es ernst: Die SEO-Überarbeitung steht an. Mal sehen, ob Albert auch dafür eine unbequeme Wahrheit parat hat.\n\n#digipicshop #digitalart #wallpaperdesign #aitoolsforartists #etsyseller #workflowautomation #pythonscripting",
+  "caption_en": "You know that moment when you sit down to \"just reorganize some folders\" and three days later you've built an entire AI team? Yeah, that was my week.\n\nI set up five AI personas in Cowork — a personal assistant, a team lead, a social media manager, a tech specialist, and a creative thinker. Each one has their own workspace, clear responsibilities, and strict rules about what they can and can't do. It sounds over-engineered. It probably is. But it works.\n\nThe pipeline now auto-uploads wallpapers and mockups to GitHub after upscaling. No more manual file shuffling. I submitted a new Etsy API application and I'm still waiting on Pinterest support — some things never change.\n\nThe real wake-up call came from Albert, my creative AI. He pointed out that titles like \"City Meeting Vibes\" rank for absolutely nothing on Etsy. Poetry doesn't sell wallpapers. Keywords do. That's getting fixed in the prompt pipeline next week.\n\nOh, and the fallback article system now self-heals. Missing images get regenerated automatically. The event scenes generator rotates through 120 scenes instead of growing forever.\n\nNext week: the great SEO overhaul begins. Stay tuned.\n\n#digipicshop #digitalart #wallpaperdesign #aitoolsforartists #etsyseller #workflowautomation #pythonscripting",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W11_01_ai-team-seo-and-self-healing/5-hook.png",
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W11_01_ai-team-seo-and-self-healing/5-hook.png",
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W11_01_ai-team-seo-and-self-healing/3-hook.png"
+  ],
+  "github_target_folder": "weekly/2026-W11_01_ai-team-seo-and-self-healing",
+  "github_shas": {
+    "5-hook.png": "48df94b104fffbe9fa808b35f760d95414394923",
+    "3-hook.png": "81345d41e27af80c075a0db38b01dec7f5ee93d6"
+  },
+  "created_at": "2026-03-22T00:00:00Z",
+  "uploaded_at": "2026-03-28T18:03:51.607136"
+}
