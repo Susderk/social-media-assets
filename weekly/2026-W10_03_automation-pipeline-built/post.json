@@ -1,0 +1,16 @@
+{
+  "id": "2026-W14_automation-pipeline-built",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "At this point I had an 10-step Python workflow controlled via a config.yaml file — generating prompts, creating folders, naming files, producing marketing copy, and uploading directly to YouTube via API. What started as \"I'll write one quick script\" had turned into a proper production pipeline.\n\nFor social media scheduling I found Metricool. Upload a CSV, attach your files, schedule posts — done. I connected Instagram, Facebook, and even TikTok. (TikTok is still a mystery to me, but that's a problem for future-Ingo.)\n\nFor shop previews I built Canva mockup designs with replaceable laptop and desktop screens. I combined 5 wallpaper images into a 15-second YouTube Short using FFmpeg and embedded the video directly in my Payhip shop listings.\n\nStill not perfect. Still some manual steps. But the daily effort went from hours down to about 30 minutes. Not considered are my exploration times and - often failed but insightful- experiments. For someone with a full-time job and a tendency to chase every shiny idea, that was a massive win.\n\nAnd then I decided to push it even further...\n\n#digipicshop #digitalart #wallpaperdesign #python #automation #metricool #youtubeshorts #canva #workflow",
+  "caption_en": "At this point I had an 10-step Python workflow controlled via a config.yaml file — generating prompts, creating folders, naming files, producing marketing copy, and uploading directly to YouTube via API. What started as \"I'll write one quick script\" had turned into a proper production pipeline.\n\nFor social media scheduling I found Metricool. Upload a CSV, attach your files, schedule posts — done. I connected Instagram, Facebook, and even TikTok. (TikTok is still a mystery to me, but that's a problem for future-Ingo.)\n\nFor shop previews I built Canva mockup designs with replaceable laptop and desktop screens. I combined 5 wallpaper images into a 15-second YouTube Short using FFmpeg and embedded the video directly in my Payhip shop listings.\n\nStill not perfect. Still some manual steps. But the daily effort went from hours down to about 30 minutes. Not considered are my exploration times and - often failed but insightful- experiments. For someone with a full-time job and a tendency to chase every shiny idea, that was a massive win.\n\nAnd then I decided to push it even further...\n\n#digipicshop #digitalart #wallpaperdesign #python #automation #metricool #youtubeshorts #canva #workflow",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W10_03_automation-pipeline-built/Phoenix_10_Wallace_and_Gromitstyle_claymation_workshop_packed_0.jpg"
+  ],
+  "github_target_folder": "weekly/2026-W10_03_automation-pipeline-built",
+  "github_shas": {
+    "Phoenix_10_Wallace_and_Gromitstyle_claymation_workshop_packed_0.jpg": "a25f06678fd737e78e183e147916498f800ff6dd"
+  },
+  "created_at": "2026-03-19T00:00:00Z",
+  "uploaded_at": "2026-03-28T18:13:45.518487"
+}
