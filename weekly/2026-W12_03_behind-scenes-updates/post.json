@@ -1,0 +1,18 @@
+{
+  "id": "2026-W15_behind-scenes-updates",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Diese Woche ging es um Verfeinerungen — die Art, die man nicht immer sieht, aber alles reibungsloser laufen lässt.\n\nIch habe neue Laptop-Mockup-Designs in Canva für die kommenden Wallpaper-Releases erstellt. Diese geben den Shop-Vorschauen einen viel saubereren, professionelleren Look.\n\nAuf der technischen Seite: Ich habe neue Hashtag-Kombinationen zu den Marketing-Scripts hinzugefügt, damit Posts mehr der richtigen Menschen erreichen, und ich habe behoben, wie der Video-Erstellungsschritt mehrere Produktordner handhabt — er verarbeitet jetzt nur das, was tatsächlich bereit ist, statt alles blind durchzulaufen.\n\nDas Aufregendste, woran ich gerade arbeite? Mein eigener KI-Agent, der regelmäßig überprüft, ob ein Teil meines Workflows schneller, günstiger oder intelligenter gemacht werden kann — und neue API-Funktionen kennzeichnet, die ich möglicherweise übersehe. Ja, ich baue im Grunde einen Roboter, um meine anderen Roboter zu überwachen.\n\nKommt als nächstes: Frühjahrsinhalte, Muttertagsdesigns und Sommertrends. Viele neue Grafiken kommen auf euch zu — bleibt dran!\n\n#digitalart #wallpaperdesign #contentcreator #behindthescenes #automation #aiagent #desktopwallpaper #springdesigns",
+  "caption_en": "This week has been all about refinements — the kind that don't always show but make everything run smoother.\n\nI've been building new laptop mockup designs in Canva for the upcoming wallpaper releases. These will give the shop previews a much cleaner, more professional look.\n\nOn the technical side: I added new hashtag combinations to the marketing scripts so posts reach more of the right people, and I fixed how the video creation step handles multiple product folders — it now only processes what's actually ready, instead of running through everything blindly.\n\nThe most exciting thing I'm working on right now? My own AI agent that will regularly check whether any part of my workflow can be done faster, cheaper, or smarter — and flag new API features I might be missing. Yes, I'm essentially building a robot to supervise my other robots.\n\nUp next: spring content, Mother's Day designs, and summer themes. Lots of new visuals coming your way — stay tuned!\n\n#digitalart #wallpaperdesign #contentcreator #behindthescenes #automation #aiagent #desktopwallpaper #springdesigns",
+  "cta_de": "Neugierig, wie das am Ende wirklich aussieht? payhip.com/digipicshop — da liegen die Ergebnisse, inklusive ein paar Ausreißern aus den Anfangstagen.",
+  "cta_en": "Curious to see how it all actually turned out? payhip.com/digipicshop — the results are there, including a few oddities from the early days.",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W12_03_behind-scenes-updates/Phoenix_10_Wallace_and_Gromitstyle_claymation_spring_workshop_0.jpg"
+  ],
+  "github_target_folder": "weekly/2026-W12_03_behind-scenes-updates",
+  "github_shas": {
+    "Phoenix_10_Wallace_and_Gromitstyle_claymation_spring_workshop_0.jpg": "b201da133d2e996684ced1512306237bc114fa26"
+  },
+  "created_at": "2026-03-19T00:00:00Z",
+  "uploaded_at": "2026-04-26T05:00:18.793725"
+}
