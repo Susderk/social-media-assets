@@ -1,0 +1,18 @@
+{
+  "id": "2026-W13_01_article-20260329050948",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Diese Woche war ein Durchbruch-Marathon. Ich habe einen kompletten 28-Tage-Lifecycle-Scheduler für meine Instagram Reels gebaut – jedes Video wird jetzt automatisch als Story erinnert, neu gepostet und geboostet, mit vier verschiedenen KI-generierten Caption-Varianten und festen Zeitfenstern pro Aktionstyp.\n\nDaneben ist das Repost-Modul fertig geworden: ein Logger, ein Scheduler und die Config dazu. Meine Pipeline hat ein paar Bugfixes bekommen – der Config_Editor hat endlich die richtigen Pfade, und Step_12 akzeptiert jetzt beide Status-Varianten ohne Murren.\n\nDas Beste: der wöchentliche Social-Media-Post erstellt sich ab jetzt von selbst. Ein Skript liest meine Sessions, fasst die Woche zusammen, generiert ein Bild und legt alles in die Queue. Meta-Automatisierung im wahrsten Sinne.\n\nUnd dann habe ich angefangen, über die große Struktur nachzudenken – eine richtige kleine Firma mit IT- und Marketing-Abteilung, skalierbar und agil. Der Weg ist noch lang, aber die Richtung stimmt.\n\n#digipicshop #digitalart #wallpaperdesign #automation #solopreneur #buildinpublic",
+  "caption_en": "This week was a breakthrough marathon. I built a complete 28-day lifecycle scheduler for my Instagram Reels – every video now automatically gets a Story reminder, a repost with fresh captions, and a final boost, all with AI-generated caption variants and dedicated time windows.\n\nThe content recycling module is done too: a logger, a scheduler, and proper config to tie it all together. The pipeline got some much-needed bug fixes – the Config Editor finally points to the right paths, and the Meta posting step now handles both status variants gracefully.\n\nBest part: the weekly social media post now creates itself. A script reads my Claude sessions, summarizes the week, generates an image, and queues everything for upload. Meta-automation at its finest.\n\nAnd I started thinking big – planning a proper company structure with IT and Marketing departments, scalable and agile. Long road ahead, but the direction feels right.\n\n#digipicshop #digitalart #wallpaperdesign #automation #solopreneur #buildinpublic",
+  "cta_de": "Wer sehen will, wo die Reise hingegangen ist: payhip.com/digipicshop — vom ersten holprigen Versuch bis heute, alles dabei.",
+  "cta_en": "Want to see where this journey has led? payhip.com/digipicshop — from the first rough attempts to today, it's all there.",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W13_01_article-20260329050948/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W13_01_article-20260329050948",
+  "github_shas": {
+    "image.png": "ce7d8d18265c0f5a36e370bcac83f60b95e5e70a"
+  },
+  "created_at": "2026-03-29T05:09:48.273023",
+  "uploaded_at": "2026-05-02T17:00:04.914026"
+}
