@@ -1,0 +1,18 @@
+{
+  "id": "2026-W16_01_article-20260419125033",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Diese Woche war strategisch – und das fühlt sich gut an.\n\nWas passiert ist:\n🔧 Großer Daten-Refactor abgeschlossen – mein Shop-System hat jetzt eine saubere zentrale Datenbasis statt vieler Einzeldateien\n🛒 Strategiewechsel: Etsy wird mein Hauptshop! Ein Verkauf bei kaum Besuchern hat mehr überzeugt als null Verkäufe bei hundert Klicks anderswo\n🖼️ Pipeline aufgeräumt – gelöschte Bilder werden jetzt automatisch erkannt, bevor sie in Videos oder Listings landen\n📋 Komplette Aufgabenliste umstrukturiert mit Etsy als Treiber\n\nDie ehrliche Erkenntnis: Manchmal zeigen dir die Zahlen ganz klar, wo dein Fokus hingehört – man muss nur hinhören.\n\nNächste Woche: Etsy-Texte optimieren und den neuen Workflow produktiv testen.\n\n#digipicshop #digitalart #wallpaperdesign #etsyseller #digitaldownloads",
+  "caption_en": "This week was all about strategy – and it paid off.\n\nHere's what happened:\n🔧 Completed a major data refactor – my shop system now runs on one clean central data source instead of scattered files\n🛒 Big pivot: Etsy is now my primary shop! One sale with barely any visitors beat zero sales with 100+ clicks elsewhere\n🖼️ Cleaned up my pipeline – deleted images are now caught automatically before they end up in videos or listings\n📋 Restructured my entire task list with Etsy as the driving force\n\nHonest takeaway: Sometimes the numbers tell you exactly where to focus – you just have to listen.\n\nNext week: Optimizing Etsy copy and testing the new workflow in production.\n\n#digipicshop #digitalart #wallpaperdesign #etsyseller #sidehustlejourney",
+  "cta_de": "Wer sehen will, wo die Reise hingegangen ist: payhip.com/digipicshop — vom ersten holprigen Versuch bis heute, alles dabei.",
+  "cta_en": "Want to see where this journey has led? payhip.com/digipicshop — from the first rough attempts to today, it's all there.",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W16_01_article-20260419125033/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W16_01_article-20260419125033",
+  "github_shas": {
+    "image.png": "7431cb083b278ca91dad5474188aa20055c83b30"
+  },
+  "created_at": "2026-04-19T12:50:33.519773",
+  "uploaded_at": "2026-05-03T06:28:00.713487"
+}
