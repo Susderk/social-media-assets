@@ -1,0 +1,18 @@
+{
+  "id": "2026-W14_01_article-20260405095248",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Diese Woche war richtig produktiv hinter den Kulissen von digipicshop! 🎬\n\nHier meine Highlights:\n\n🎵 MusicGen ist jetzt in die Pipeline integriert – jedes Wallpaper-Video bekommt ab sofort seinen eigenen Soundtrack, passend zum Bildmotiv generiert. Das wird die Reels auf ein ganz neues Level heben.\n\n🛒 Alle Posts bekommen jetzt automatisch wechselnde Shop-Links – keine Copy-Paste-Vergesslichkeit mehr, vier verschiedene CTA-Varianten sorgen für Abwechslung.\n\n🎥 Ein fieser Video-Bug ist Geschichte: Der Hook-Text im Reel fehlte komplett. Jetzt läuft alles wieder sauber.\n\n📅 Der Upload-Rhythmus ist optimiert – ein Artikel pro Woche, schön gleichmäßig.\n\nErkenntnis: Automation ist nur so gut wie die kleinen Details, die man nicht vergisst.\n\nNächste Woche: Erster Testlauf mit Musik! 🎶\n\n#digipicshop #digitalart #wallpaperdesign #etsyshop #contentcreation",
+  "caption_en": "Big week behind the scenes at digipicshop! 🎬\n\nHere's what happened:\n\n🎵 MusicGen is now part of the pipeline – every wallpaper video gets its own AI-generated soundtrack based on the image mood. Reels are about to sound as good as they look.\n\n🛒 Shop links now rotate automatically across all posts – four different call-to-action variants keep things fresh and nothing gets forgotten.\n\n🎥 Squashed a nasty video bug where the hook text overlay had completely disappeared. Back in action now.\n\n📅 Upload rhythm is dialed in – one article per week, nice and steady.\n\nLesson learned: Automation only works when you nail the small details.\n\nNext up: First real test run with generated music! 🎶\n\n#digipicshop #digitalart #wallpaperdesign #etsyseller #indiedev #creatorlife",
+  "cta_de": "Neugierig, wie das am Ende wirklich aussieht? payhip.com/digipicshop — da liegen die Ergebnisse, inklusive ein paar Ausreißern aus den Anfangstagen.",
+  "cta_en": "Curious to see how it all actually turned out? payhip.com/digipicshop — the results are there, including a few oddities from the early days.",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W14_01_article-20260405095248/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W14_01_article-20260405095248",
+  "github_shas": {
+    "image.png": "f4ebeb50cb290634360b62db9ceca64af86f56b9"
+  },
+  "created_at": "2026-04-05T09:52:48.971227",
+  "uploaded_at": "2026-05-03T05:00:16.154485"
+}
