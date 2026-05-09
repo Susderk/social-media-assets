@@ -1,0 +1,18 @@
+{
+  "id": "2026-W16_02_article-20260419130109",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Diese Woche war Pipeline-Woche. Nicht glamourös, aber wichtig.\n\nWas passiert ist:\n→ Etsy-Listing-Texte werden jetzt automatisch per KI generiert – direkt in der Pipeline, kein manuelles Tippen mehr\n→ Instagram-Reels können ab sofort Produkte taggen – Bild sehen, antippen, kaufen\n→ Facebook-Produktkatalog repariert – Bildlinks kamen nicht an, jetzt schon\n→ Canva-Mockups werden bald automatisch erstellt statt von Hand\n→ Diverse Bugfixes, die dafür sorgen, dass der Laden einfach läuft\n\nDie Erkenntnis: Jeder unsichtbare Fix macht das sichtbare Ergebnis besser. Wenn ihr ein Wallpaper kauft und alles reibungslos funktioniert – dann war es genau so eine Woche.\n\nNächste Woche: Erster komplett automatischer Durchlauf von Bild bis Shop. Einzige Ausnahme: Die Kuratierung mache ich natürlich noch manuell!\n\n#digipicshop #digitalart #wallpaperdesign #etsyseller #indiemaker",
+  "caption_en": "This week was all about making things work behind the scenes.\n\nWhat happened:\n→ Etsy listing texts are now AI-generated automatically – no more manual copywriting\n→ Instagram Reels now support product tagging – see it, tap it, buy it\n→ Fixed the Facebook product catalog – image links were broken, now they're not\n→ Canva mockup creation is being automated next\n→ A bunch of bug fixes that make everything run smoother\n\nThe takeaway: every invisible fix improves the visible result. When you buy a wallpaper and everything just works – it was a week like this one.\n\nNext up: first fully automated run from image to shop listing. Only exception: Curating is still my manual job\n\n#digipicshop #digitalart #wallpaperdesign #etsyshop #solopreneur",
+  "cta_de": "Falls euch die Evolution dieser Bilder interessiert, schaut mal hier: https://digipicshopdesigns.etsy.com",
+  "cta_en": "If you're curious how these images evolved, take a look: https://digipicshopdesigns.etsy.com",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W16_02_article-20260419130109/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W16_02_article-20260419130109",
+  "github_shas": {
+    "image.png": "44f9be6abeb1a878c687587d8d7d436a714eaa09"
+  },
+  "created_at": "2026-04-19T13:01:09.976706",
+  "uploaded_at": "2026-05-09T17:00:06.547516"
+}
