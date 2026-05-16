@@ -1,0 +1,18 @@
+{
+  "id": "2026-W17_01_article-20260503064210",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Was für eine Woche hinter den Kulissen! Ich hab mich intensiv um die Technik hinter digipicshop gekümmert — und einiges in Bewegung gebracht:\n\n• Unser Publishing-System hatte einen fiesen Bug, der Reels mehrfach gepostet hat — 76 Duplikate an einem Tag! Gefunden, gefixt, alles stabil.\n• Die Bild-Pipeline wurde komplett gehärtet: Dateien werden jetzt zuverlässig gespeichert, keine abgeschnittenen Daten mehr.\n• Unsere Originale werden jetzt automatisch auf GitHub gesichert — Leonardo-Links können ablaufen, unsere Bilder nicht mehr.\n• Pipeline-Split eingeführt: Abends bereite ich kreativ vor, morgens läuft alles automatisch.\n• Mockup-Erstellung wurde flexibler und schneller gemacht.\n\nErkenntnis der Woche: Manchmal steckt der größte Fortschritt in dem, was man nicht sieht — stabile Technik hinter schönen Produkten.\n\nNächste Woche geht es an Performance-Optimierung und neue Designs!\n\n#digipicshop #digitalart #wallpaperdesign #behindthescenes #etsyseller",
+  "caption_en": "What a week behind the scenes! I spent most of it deep in the tech that powers digipicshop — and made some serious progress:\n\n• Our publishing system had a nasty bug that posted reels multiple times — 76 duplicates in one day! Found it, fixed it, rock solid now.\n• The entire image pipeline got hardened: files save reliably, no more truncated data.\n• Originals now auto-backup to GitHub — no more worrying about expiring Leonardo links.\n• Introduced a pipeline split: creative prep in the evening, everything runs automatically by morning.\n• Mockup creation got more flexible and faster.\n\nBiggest takeaway this week: sometimes the most meaningful progress is invisible — solid tech behind beautiful products.\n\nNext week: performance tuning and fresh designs!\n\n#digipicshop #digitalart #wallpaperdesign #behindthescenes #etsyseller",
+  "cta_de": "Falls euch die Evolution dieser Bilder interessiert, schaut mal hier: https://digipicshopdesigns.etsy.com",
+  "cta_en": "If you're curious how these images evolved, take a look: https://digipicshopdesigns.etsy.com",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W17_01_article-20260503064210/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W17_01_article-20260503064210",
+  "github_shas": {
+    "image.png": "f0ea0e01a4c72ef76260bbf40d7ef53c300246f3"
+  },
+  "created_at": "2026-05-03T06:42:10.728542",
+  "uploaded_at": "2026-05-16T17:00:05.115836"
+}
