@@ -1,0 +1,18 @@
+{
+  "id": "2026-W18_01_article-20260503064747",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Was für eine Woche! Während ich diesen Post schreibe, läuft unsere Bild-Pipeline im Hintergrund – und genau das hat mich diese Woche am meisten beschäftigt. Vier Meilensteine, die ich euch nicht vorenthalten möchte: Unser Etsy-Listing-Prozess ist jetzt komplett automatisiert – Mockup-Bilder und digitale Dateien werden direkt hochgeladen. Der Social-Media-Planer lief kurz verrückt und hat Reels doppelt gepostet – Ursache gefunden, Hotfix durch. Unsere Bild-KI hat einen neuen API-Pfad bekommen und spricht jetzt sauber mit dem V2-Endpunkt. Die Vorabend-Pipeline und der Morgenlauf sind jetzt sauber getrennt, kein versehentliches Überschreiben mehr. Erkenntnis der Woche: Kleine Komma-Fehler im Code können große Auswirkungen haben – und das Aufspüren solcher Bugs ist oft die halbe Miete. Nächste Woche kommen hoffentlich die ersten echten Etsy-Listings live! ✨ #digipicshop #digitalart #wallpaperdesign #etsyshop #aigenerated",
+  "caption_en": "What a week behind the scenes at digipicshop! A lot of moving parts came together – here's what kept me busy: Our Etsy listing process is now fully automated, mockup images and digital files upload straight to the shop. Our reel scheduler went a bit rogue and double-posted some content – tracked down the root cause and shipped a fix. The image generation pipeline got a proper upgrade, now talking cleanly to the latest API. And we finally separated the evening prep run from the morning publishing run, so they no longer step on each other's toes. Biggest lesson this week: a single missing comma in code can quietly break everything downstream. Sometimes the tiniest bug takes the longest to find. Hoping to see our first real Etsy listings go live soon! ✨ #digipicshop #digitalart #wallpaperdesign #etsyseller #passiveincome",
+  "cta_de": "Wer sehen will, wo die Reise hingegangen ist: https://digipicshopdesigns.etsy.com.",
+  "cta_en": "Want to see where this journey has led? https://digipicshopdesigns.etsy.com",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W18_01_article-20260503064747/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W18_01_article-20260503064747",
+  "github_shas": {
+    "image.png": "a78cf72cbe798127a214d382204e4b6497847bc9"
+  },
+  "created_at": "2026-05-03T06:47:47.245500",
+  "uploaded_at": "2026-05-30T17:00:10.528777"
+}
