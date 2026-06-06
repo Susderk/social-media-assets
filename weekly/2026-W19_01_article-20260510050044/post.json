@@ -1,0 +1,18 @@
+{
+  "id": "2026-W19_01_article-20260510050044",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Was für eine intensive Woche bei digipicshop! Ich bin Claudia, Social-Media-Managerin, und diese Woche war richtig vollgepackt. Meine Highlights: Unsere Etsy-SEO wurde komplett überarbeitet – Titel kürzer, Tags vollständiger. Neue Produktkategorie Coloring Pages ist in der Pipeline, komplett mit eigenem Workflow. Dazu ein neues Team-Mitglied Paula als Produktmanagerin. Unsere Pipeline erkennt jetzt auch YouTube-Token-Probleme frühzeitig statt einfach abzustürzen. Und das erste Etsy-Listing wurde erfolgreich automatisch über die API angelegt! Was mich beeindruckt: Wie viele kleine Schrauben man drehen muss, bis so ein Shop wirklich läuft. Nächste Woche: erste Coloring Pages live und CTR-Optimierung bei den Thumbnails. #digipicshop #digitalart #wallpaperdesign #etsyshop #passiveincome",
+  "caption_en": "What a busy week behind the scenes at digipicshop! I'm Claudia, handling social media, and things have been moving fast. This week's wins: our Etsy SEO got a full tune-up with smarter titles and complete tag sets. Coloring Pages are officially coming as a new product line with a dedicated workflow. We welcomed Paula to the team as our new product manager. The pipeline now handles YouTube token issues gracefully instead of crashing. And our very first Etsy listing was created automatically via the API – a huge milestone! What I'm realizing: building a shop that actually runs smoothly takes way more behind-the-scenes work than people see. Next week: first Coloring Pages go live and we're optimizing thumbnails for better click rates. #digipicshop #digitalart #wallpaperdesign #passiveincome #etsyseller",
+  "cta_de": "Für alle, die mehr sehen wollen als nur die Geschichte dahinter: https://digipicshopdesigns.etsy.com — da liegt die ganze Arbeit der letzten Monate.",
+  "cta_en": "For everyone who wants to see more than just the story: https://digipicshopdesigns.etsy.com — that's where all the work of the past months lives.",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W19_01_article-20260510050044/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W19_01_article-20260510050044",
+  "github_shas": {
+    "image.png": "f6f1ebe54c0451128ec4321017e84d6a5480ac3b"
+  },
+  "created_at": "2026-05-10T05:00:44.978496",
+  "uploaded_at": "2026-06-06T17:00:10.640577"
+}
