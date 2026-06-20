@@ -1,0 +1,18 @@
+{
+  "id": "2026-W22_01_article-20260531050048",
+  "type": "weekly",
+  "status": "ready",
+  "caption_de": "Was eine Woche! Hinter den Kulissen war einiges los bei digipicshop. Hier mein ehrlicher Rückblick: ✅ 15 neue Wallpaper-Listings live gegangen – alle aktiviert, mit vollständigen Beschreibungen und Tags. ✅ Etsy-Video-Upload endlich aktiviert – ab jetzt haben unsere Listings auch Videodateien. ✅ Einen hartnäckigen Pipeline-Bug aufgespürt und gefixt, der bei manchen Listings leere Beschreibungen verursacht hat – niemand hätte das auf Anhieb entdeckt. ✅ Mockup-Engpass nach 7 Tagen Stillstand behoben – der Shop läuft wieder wie geplant. Erkenntnis der Woche: Automatisierung ist toll, aber echte Qualitätssicherung braucht menschliche Augen. Ausblick: Nächste Woche geht es an weitere Verbesserungen und mehr neue Designs! 🎨 #digipicshop #digitalart #wallpaperdesign #etsyseller #digitaldownload",
+  "caption_en": "What a week behind the scenes at digipicshop! Honestly, it was equal parts exciting and humbling. Here's what actually happened: ✅ 15 new wallpaper listings went live – all with complete descriptions, tags, and proper files. ✅ Etsy video upload finally switched on – our listings now include video previews. ✅ Tracked down a sneaky bug causing blank descriptions on some listings and fixed it before buyers ever noticed. ✅ Solved a week-long mockup bottleneck that had the whole pipeline on pause. Big lesson: automation handles the heavy lifting, but real quality control still needs human attention. Next week: more designs, more improvements, more good stuff. 🎨 #digipicshop #digitalart #wallpaperdesign #etsyshop #digitaldownload",
+  "cta_de": "Für alle, die mehr sehen wollen als nur die Geschichte dahinter: https://digipicshopdesigns.etsy.com — da liegt die ganze Arbeit der letzten Monate.",
+  "cta_en": "For everyone who wants to see more than just the story: https://digipicshopdesigns.etsy.com — that's where all the work of the past months lives.",
+  "image_urls": [
+    "https://raw.githubusercontent.com/Susderk/social-media-assets/main/weekly/2026-W22_01_article-20260531050048/image.png"
+  ],
+  "github_target_folder": "weekly/2026-W22_01_article-20260531050048",
+  "github_shas": {
+    "image.png": "f33b3e853de048d6bb6d72c47ae30d5dc8db7a44"
+  },
+  "created_at": "2026-05-31T05:00:48.385473",
+  "uploaded_at": "2026-06-20T17:00:05.075225"
+}
